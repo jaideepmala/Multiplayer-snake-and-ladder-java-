@@ -1,5 +1,3 @@
-package com.amazon.hfchotel.test.snakeAndLadder;
-
 public class Snake {
 
     int start;
