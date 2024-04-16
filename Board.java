@@ -1,5 +1,3 @@
-package com.amazon.hfchotel.test.snakeAndLadder;
-
 import java.util.ArrayList;
 import java.util.List;
 
