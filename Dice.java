@@ -1,5 +1,3 @@
-package com.amazon.hfchotel.test.snakeAndLadder;
-
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Dice {
